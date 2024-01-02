@@ -1,0 +1,36 @@
+.final-form{
+    width: 400px;
+    border-radius: 2%;
+    align-items: center;
+    margin: auto;
+    display:block;
+    height: 300px;
+    padding-top: 50px;
+}
+.final-h{
+    text-align: center;
+}
+@media (min-width:320px) and (max-width:374px){
+    .final-form{
+        width: 300px;
+        border-radius: 2%;
+        align-items: center;
+        margin: auto;
+        display:block;
+        height: 300px;
+    } 
+    .final-h{
+        font-size: 25px;
+    }
+}
+@media (min-width:374px) and (max-width:424px){
+    .final-form{
+        width: 300px;
+        border-radius: 2%;
+        align-items: center;
+        margin: auto;
+        display:block;
+        height: 300px;
+    } 
+
+}

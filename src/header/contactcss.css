@@ -1,0 +1,17 @@
+.from1{
+    margin: auto;
+    padding: 5px;
+    margin-top: 10%;
+    margin-left: 22%;
+    width: 800px;
+    border: 0px solid #dedede;
+
+}
+.more{
+    background-color: cadetblue;
+    width: 100vw;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
